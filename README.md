@@ -28,7 +28,7 @@ AlphaCare Insurance Solutions (ACIS) aims to refine its marketing approach and i
 ## Getting Started
 1. Clone the repository:
    ```bash
-   git clone https://github.com/GetieBalew24/IINSURANCE_ANALYSIS.git
+   git clone https://github.com/shammuse/IINSURANCE_ANALYSIS.git
    cd IINSURANCE_ANALYSIS
    ```
    ```
